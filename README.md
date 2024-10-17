@@ -18,7 +18,6 @@ Resilience Inc - Full-Stack Developer Intern | Remote
 - Streamlined debugging and code review processes, improving team collaboration and app functionality, and developed a 
  multilingual educational app for students.
 
-
 ### Projects
 Multi-Type Orderbook System - Developer | Team of 3
 - Developed a high-performance, scalable multi-orderbook system in C++, optimizing trading platform capabilities with DSA 
@@ -32,5 +31,8 @@ Martial Arts Training and Analytics App - Developer | Individual
 - Designed to efficiently handle diverse martial arts techniques and training data, providing personalized insights and 
  performance improvement strategies.
 
-
+MoleculeIQ | Team of 4
+- Developed at HackHarvard as a collaborative project by a team of four.
+- An AI-powered waste management platform built with Next.js 14, designed to streamline waste reporting and collection.
+- The platform incentivizes eco-friendly actions by creating a community-driven approach that rewards users for participating in waste management efforts.
 
