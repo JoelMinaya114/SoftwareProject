@@ -1,4 +1,4 @@
-
+#### Hi! My name is Joel. I am a Software Developer attending Rutgers University, Newark. My primary interests lie in Brazilian Jiu-Jitsu, competitive programming, and applications of tech in general.
 
 #### Technical Skills: C++, Kotlin, Python, Javascript (React, Typescript), Flutter
 
